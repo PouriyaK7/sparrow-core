@@ -1,0 +1,19 @@
+{
+    "name": "sparrow/sparrow-core",
+    "description": "The core of sparrow framework",
+    "type": "library",
+    "license": "dev",
+    "authors": [
+        {
+            "name": "Sparrow Team",
+            "email": "pk74ever@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sparrow\\": "src"
+        }
+    }
+}
